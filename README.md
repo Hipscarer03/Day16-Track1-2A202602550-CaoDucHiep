@@ -40,3 +40,77 @@
 > 1. *Các bản cập nhật giao diện (UI redesign, dark mode, widget màn hình khóa):* Đây là các cải tiến vận hành/thẩm mỹ thông thường (cosmetic updates), không làm thay đổi cách người học tương tác với AI hay giải quyết pain point cốt lõi.
 > 2. *Các chiến dịch khuyến mãi / giảm giá mùa tựu trường (Back to school discount):* Đây là quyết định Marketing/Sales ngắn hạn, không làm thay đổi định giá (pricing strategy) hay cấu trúc gói dịch vụ lâu dài.
 > 3. *Các bản vá lỗi nhận diện giọng nói (Minor bug fixes/patch release):* Đây là bảo trì kỹ thuật thường nhật, không tạo ra một bước nhảy vọt x10 về trải nghiệm sản phẩm.
+
+
+---
+
+## Step 2 — Phân tích Người Dùng & 4 Forces (Checkpointed CP2)
+
+> **Mục tiêu:** Thấu hiểu sự dịch chuyển của tệp người dùng theo thời gian, bóc tách động lực chuyển đổi (Switching Dynamics) qua mô hình 4 Forces của JTBD, và kiểm chứng bằng các tín hiệu thực tế từ review người dùng.
+
+### 1. Bảng So Sánh Early Adopters và Tệp Hiện Tại
+
+| Tệp người dùng | Đặc điểm nhân khẩu & Hành vi | JTBD (Jobs-to-be-done) | Cách cũ họ từng dùng | Cột mốc gây dịch chuyển (Step 1) |
+|---|---|---|---|---|
+| **Early Adopters (2019 – 2022):** <br>Người đi làm tại Seoul, Hàn Quốc | - Độ tuổi: ~25–40 tuổi *(suy luận từ bối cảnh kinh tế & nhu cầu công việc)*.<br>- Nền tảng: Đã học tiếng Anh nhiều năm theo hướng thi cử (TOEIC/CSAT); đọc hiểu và ngữ pháp khá nhưng "câm" khi giao tiếp.<br>- Khá giả, sẵn sàng chi trả cho giáo dục.<br>- Tâm lý: Sợ sai, sợ bị phán xét trước người khác. | *"Khi tôi có nền tảng ngữ pháp nhưng bị đơ/đóng băng khi phải nói, tôi muốn được nói thành tiếng mỗi ngày và được sửa lỗi ngay lập tức mà không sợ bị phán xét, để khi giao tiếp với người thật tôi không còn cảm giác sợ hãi."* | - Đi học trung tâm ngữ pháp/luyện thi.<br>- Học gia sư người thật 1:1 (chi phí rất đắt đỏ, khó sắp xếp lịch, áp lực tâm lý e ngại).<br>- Tự học thụ động qua sách/video (thiếu môi trường phản hồi tức thì). | **2019** (Chọn *"Nói thành tiếng"* làm định nghĩa "học tốt") và **11/2022** (Chuyển sang hội thoại mở với AI Tutor). |
+| **Tệp Hiện Tại A (H2/2024 – nay):** <br>Nhân viên doanh nghiệp (B2B Enterprise tại Hàn, Nhật, Đài Loan) | - Nhân viên tại các tập đoàn lớn (KPMG, HD Hyundai, >200 doanh nghiệp B2B).<br>- Được công ty tài trợ 100% học phí như một phúc lợi đào tạo.<br>- Cần tiếng Anh thực chiến cho công việc, họp quốc tế, giao dịch đối tác nhưng quỹ thời gian eo hẹp. | *"Khi công việc đòi hỏi giao tiếp tiếng Anh toàn cầu mà tôi không có thời gian tìm gia sư, tôi muốn một lộ trình luyện nói do công ty chi trả và theo dõi được, để tôi tiến bộ trong công việc mà không phải tự bỏ tiền hay tự loay hoay sắp xếp."* | - Tự bỏ tiền túi mua app lẻ hoặc tự học.<br>- Tham gia các lớp đào tạo nội bộ cứng nhắc của công ty.<br>- Bỏ mặc, không luyện tập vì thiếu động lực cá nhân. | **H2/2024 (Speak for Business):** <br>Dịch chuyển từ B2C sang B2B; bổ sung cổng quản trị Admin Portal theo dõi tiến độ nhân viên. |
+| **Tệp Hiện Tại B (2024 – 2026):** <br>Người nói tiếng Anh tại Mỹ học tiếng Tây Ban Nha / Pháp | - Người dùng học ngoại ngữ trên app nhiều năm (đặc biệt là tệp người dùng cũ của Duolingo).<br>- Trình độ mới bắt đầu (Beginner) hoặc Sơ trung cấp (Intermediate).<br>- Gặp hiện tượng "Duolingo burnout": Giữ streak nhiều năm, nhớ từ vựng nhưng không ghép thành câu nói hoàn chỉnh được. | *"Khi tôi đã học app ngoại ngữ nhiều năm, nhận biết được mặt chữ nhưng vẫn không thể tự nói nổi một câu trọn vẹn, tôi muốn một lộ trình ép tôi phải mở miệng nói ngay từ ngày đầu, để lần tới gặp người bản xứ tôi có thể tự tin trò chuyện."* | - Duolingo (làm bài tập trắc nghiệm, duy trì streak nhưng thụ động).<br>- ChatGPT Voice miễn phí (nói chuyện tự do nhưng thiếu giáo trình sư phạm, dễ bị lặp lại). | **2024** (Mở rộng tiếng Tây Ban Nha, Pháp với Voice Model riêng) và **12/2025** (Winter Release: Speak Level + cơ chế Streak để giữ chân người học). |
+
+---
+
+### 2. Phân Tích Mô Hình 4 Forces (Động Lực Chuyển Đổi JTBD)
+
+```mermaid
+flowchart TD
+    subgraph ThucDay["LỰC THÚC ĐẨY CHUYỂN DỊCH (Promoting Change)"]
+        Push["1. PUSH (Lực Đẩy từ sản phẩm cũ/hiện tại)<br>Bực bội, thất vọng với cách làm cũ"]
+        Pull["2. PULL (Lực Kéo từ giải pháp Speak)<br>Sức hút của trải nghiệm luyện nói x10"]
+    end
+    subgraph CanTro["LỰC CẢN TRỞ CHUYỂN DỊCH (Inhibiting Change)"]
+        Anxiety["3. ANXIETY (Sự Lo Ngại / Băn khoăn)<br>Rủi ro khi thử hoặc khi rời đi"]
+        Habit["4. HABIT (Thói Quen cũ / Sự ỳ)<br>Quán tính níu giữ người dùng"]
+    end
+```
+
+| Lực (Force) | Tác động lên người học Speak | Bằng chứng thực tế & Tín hiệu thu thập | Đánh giá mức độ |
+|---|---|---|---|
+| **1. PUSH (Đẩy)**<br>*(Bực bội thúc đẩy rời bỏ hoặc bức xúc với Speak)* | - **Đẩy khỏi sản phẩm cũ (Duolingo/Lớp học):** Học nhiều năm vẫn không nói được; áp lực tâm lý khi đối thoại với giáo viên người thật.<br>- **Đẩy phát sinh từ chính Speak (Điểm nghẽn):** <br>  + Độ tin cậy chấm điểm 2 chiều: Chấm quá khắt khe ở âm tiết ngắn (như *"how's"* nói cả tỉ lần vẫn fail) hoặc quá dễ dãi ở câu dài.<br>  + Ở trình độ cao nội dung bị lặp lại, bài học và hội thoại tự do chưa liên kết chặt chẽ. | - Review người dùng: *"Học Duolingo 5 năm không nói được tiếng Pháp"*; *"Đọc từ 'how's' cả tỷ lần app vẫn không cho qua dù Google Assistant nhận đúng 100%"*.<br>- Nhiều review chỉ ra học viên trình độ cao không chọn được accent hay giọng AI phù hợp. | **Cao** *(tăng mạnh theo thời gian sử dụng và trình độ học viên)* |
+| **2. PULL (Kéo)**<br>*(Sức hấp dẫn đưa user đến với Speak)* | - Trải nghiệm **"ép nói từ ngày đầu"**: Nói thành tiếng 20–30 câu mỗi bài trong không gian an toàn tuyệt đối, không sợ bị phán xét.<br>- Phản hồi sửa lỗi phát âm và ngữ pháp tức thì theo thời gian thực.<br>- Gia sư AI full-duplex có thể ngắt lời tự nhiên như người thật (GPT-Live). | - Người dùng đạt hàng trăm lượt phát âm chỉ trong 15 phút học.<br>- Vốn đầu tư từ OpenAI Startup Fund giúp Speak ứng dụng model giọng nói và LLM nhanh hơn thị trường 2–3 tháng. | **Rất mạnh** *(đây là giá trị cốt lõi giữ chân khách hàng)* |
+| **3. ANXIETY (Lo ngại)**<br>*(Rào cản tâm lý khi chuyển đổi)* | - **Lo ngại khi bắt đầu (Onboarding/Trial):** Nỗi sợ bị trừ tiền tự động không rõ ràng; giá hiển thị khuyến mãi khác giá trừ thực tế; thủ tục hủy trial trước 24h gây ức chế.<br>- **Lo ngại khi rời đi:** Sợ mất lộ trình bài bản có cấu trúc, mất lịch sử tích lũy (Speak Level); lo công cụ miễn phí như ChatGPT Voice không có bài tập dẫn dắt. | - Review Google Play (04/01/2026): Bị trừ 1.443.333 VNĐ thay vì 1.299.000 VNĐ niêm yết, lịch sử giao dịch không hiển thị rõ.<br>- Nhiều người học ngần ngại đăng ký gói năm vì sợ sau vài tuần sẽ bỏ xó. | **Trung bình đến Cao** *(ma sát trial là rào cản lớn ở phễu đầu vào)* |
+| **4. HABIT (Thói quen)**<br>*(Sự ỳ níu giữ ở lại)* | - **Ở B2C (Cá nhân):** Thói quen tương đối yếu. Người dùng chỉ thấy đáng tiền ở những tháng mở app luyện tập liên tục hàng ngày; dễ bị đứt chuỗi thói quen nếu bận rộn.<br>- **Ở B2B (Doanh nghiệp):** Rất cao vì công ty tài trợ và gắn với KPI đào tạo nội bộ. | - Review người dùng Hàn Quốc: *"Chỉ thấy đáng tiền ở tháng dùng gần như mỗi ngày"*. Đến cuối 2025 Speak mới phải bổ sung Streak Freeze và Streak Repair để xây dựng thói quen tương tự Duolingo. | - **B2C: Thấp đến Trung bình**<br>- **B2B: Rất cao** |
+
+---
+
+### 3. Tín Hiệu Thực Tế Từ Review 1–2 Sao (Empirical Signals)
+
+Để tránh thiên lệch từ các bài PR hoặc trang review nội bộ của Speak, phân tích đã đối chiếu thêm các review tiêu cực (1 sao) thực tế từ người dùng trên Store:
+
+| Ngày review | Nội dung phản ánh từ người dùng | Nhóm vấn đề | Tác động lên bài toán sản phẩm |
+|---|---|---|---|
+| **23/07/2026** | Người dùng đọc đúng chuẩn (kể cả dùng Google đọc lại y hệt) nhưng app liên tục chấm sai và báo lỗi phát âm. | **Chấm phát âm sai lệch (Quá khắt khe)** | Làm hỏng lời hứa giá trị cốt lõi (Core Value Proposition): Người dùng mất niềm tin vào độ chính xác của AI Tutor. |
+| **01/08/2026** | Luyện phát âm từ *"how's"* lặp lại vô số lần vẫn không qua được bài, gây ức chế tột độ và khuyên người khác đừng tải. | **Lỗi thiết kế bài học / Ngưỡng nhận diện âm ngắn** | Lỗ hổng trong mô hình nhận diện giọng nói đối với các từ co rút (contractions), tạo điểm nghẽn khiến vòng lặp học bị tắc. |
+| **04/01/2026** | Bị trừ tiền tự động khi chưa xác nhận đăng ký gói chính thức, số tiền trừ (1.443.333 VNĐ) cao hơn giá niêm yết (1.299.000 VNĐ). | **Ma sát thanh toán & Trải nghiệm Free Trial** | Gia tăng lực **Anxiety (Lo ngại)** ngay tại cửa ngõ onboarding, khiến người dùng tiềm năng nghi ngờ sự minh bạch của ứng dụng. |
+
+---
+
+### 4. Trả Lời Câu Hỏi Phản Biện Checkpoint CP2
+
+#### ❓ Câu hỏi 1: Lực nào đang giữ chân người dùng Speak mạnh nhất hiện tại?
+> **Trả lời:** Lực giữ chân mạnh nhất hiện nay vẫn là **Lực Kéo (PULL)** — cụ thể là giá trị cốt lõi: *"Bị ép mở miệng nói thành tiếng theo lộ trình bài bản và được sửa sai ngay lập tức mà không bị phán xét"*.
+> - Đây là lợi thế cạnh tranh về mặt giá trị trải nghiệm, chứ **chưa phải là sự khóa chặt (Lock-in/Moat) về thói quen hay dữ liệu**.
+> - Đối với tệp B2B, lực giữ bổ sung là **Thói quen tổ chức (Organizational Switching Cost)**, vì nhân viên được công ty chi trả và gắn quyền lợi đào tạo nên họ ít có động lực đổi sang app khác.
+
+#### ❓ Câu hỏi 2: Điều gì sẽ xảy ra nếu lực kéo này mất đi hoặc bị bào mòn?
+> **Trả lời:** Lực kéo của Speak đang đối mặt với 2 nguy cơ bào mòn lớn:
+> 1. *Sự phổ cập của Voice AI miễn phí:* Khi các mô hình nền tảng như ChatGPT Voice, GPT-Live hay Gemini Live đạt độ tự nhiên gần như người thật và hoàn toàn miễn phí, nhóm người dùng chỉ cần "một đối tác luyện nói tự do" sẽ rời bỏ Speak đầu tiên.
+> 2. *Sự suy giảm niềm tin vào thuật toán chấm điểm:* Nếu Speak tiếp tục gặp lỗi chấm phát âm khắt khe vô lý (như các review 1 sao đã chỉ ra), người học sẽ mất niềm tin vào vai trò "người sửa lỗi" của AI và chuyển sang nói chuyện tự do trên ChatGPT Voice.
+>
+> $ightarrow$ **Hệ quả chiến lược:** Đây chính là lý do giải thích vì sao từ cuối 2025, Speak buộc phải bổ sung **Speak Level**, **chu trình Learn-Practice-Apply** và **cơ chế Streak/Gamification**: Speak đang gấp rút chuyển dịch trọng tâm từ *Lực Kéo công nghệ đơn thuần* sang xây dựng **Lực Cản Lo Ngại (Anxiety - mất dữ liệu tiến trình)** và **Lực Thói Quen (Habit Loop)** để phòng thủ trước các mô hình nền tảng miễn phí.
+
+---
+
+### 5. Giới Hạn Bằng Chứng & Khai Báo AI Support Log
+
+- **Giới hạn dữ liệu:** Nhân khẩu học nhóm Early Adopters tại Hàn Quốc được suy luận từ bối cảnh văn hóa thi cử và các bài phỏng vấn podcast của nhà sáng lập (Accel Podcast). Các review 1 sao là tín hiệu định tính ban đầu, cần được kiểm chứng trên tập mẫu rộng hơn (20–30 review).
+- **Tự kiểm chứng cá nhân:** Đã tiến hành cài đặt và trải nghiệm trực tiếp tính năng luyện phát âm các từ co rút (*how's, what's*) trên ứng dụng để xác thực ngưỡng nhạy của bộ nhận diện giọng nói.
+- **Khai báo AI Log:** AI hỗ trợ phân loại sơ bộ mô hình 4 Forces và định dạng bảng JTBD; học viên trực tiếp thu thập review tiêu cực thực tế, phân tích nguyên nhân kỹ thuật và viết các câu trả lời phản biện chiến lược.
