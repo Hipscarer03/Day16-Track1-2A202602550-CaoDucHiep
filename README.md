@@ -194,4 +194,4 @@ flowchart LR
   - Thị trường Đông Nam Á (Việt Nam, Thái Lan): Dù Speak từng đề cập tiềm năng tại vòng Series C, nhóm chưa tìm thấy tín hiệu tuyển dụng bộ máy B2B tại khu vực này nên **chủ động loại bỏ khỏi nhóm dự đoán chính trong 6–12 tháng tới**.
 - **Khai báo AI Support Log (Step 3):**
   - *AI đã hỗ trợ:* Hỗ trợ quét và tổng hợp các bản mô tả công việc (JD) của Speak trên Wellfound; gợi ý các hướng dự đoán tương thích với mô hình EdTech.
-  - *Học viên tự tay thực hiện:* Lựa chọn và tinh lọc đúng 3 quyết định sản phẩm chiến lược; tự chấm điểm mức độ tự tin; thiết lập chuỗi lập luận phản biện kết nối chặt chẽ Step 1 $ightarrow$ Step 2 $ightarrow$ Step 3; và trực tiếp xây dựng kịch bản phản biện giả định gãy cho Dự đoán 1.
+  - *Học viên tự tay thực hiện:* Lựa chọn và tinh lọc đúng 3 quyết định sản phẩm chiến lược; tự chấm điểm mức độ tự tin; thiết lập chuỗi lập luận phản biện kết nối chặt chẽ Step 1 $\rightarrow$ Step 2 $\rightarrow$ Step 3; và trực tiếp xây dựng kịch bản phản biện giả định gãy cho Dự đoán 1.
