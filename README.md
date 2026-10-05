@@ -105,7 +105,7 @@ flowchart TD
 > 1. *Sự phổ cập của Voice AI miễn phí:* Khi các mô hình nền tảng như ChatGPT Voice, GPT-Live hay Gemini Live đạt độ tự nhiên gần như người thật và hoàn toàn miễn phí, nhóm người dùng chỉ cần "một đối tác luyện nói tự do" sẽ rời bỏ Speak đầu tiên.
 > 2. *Sự suy giảm niềm tin vào thuật toán chấm điểm:* Nếu Speak tiếp tục gặp lỗi chấm phát âm khắt khe vô lý (như các review 1 sao đã chỉ ra), người học sẽ mất niềm tin vào vai trò "người sửa lỗi" của AI và chuyển sang nói chuyện tự do trên ChatGPT Voice.
 >
-> $ightarrow$ **Hệ quả chiến lược:** Đây chính là lý do giải thích vì sao từ cuối 2025, Speak buộc phải bổ sung **Speak Level**, **chu trình Learn-Practice-Apply** và **cơ chế Streak/Gamification**: Speak đang gấp rút chuyển dịch trọng tâm từ *Lực Kéo công nghệ đơn thuần* sang xây dựng **Lực Cản Lo Ngại (Anxiety - mất dữ liệu tiến trình)** và **Lực Thói Quen (Habit Loop)** để phòng thủ trước các mô hình nền tảng miễn phí.
+> $\rightarrow$ **Hệ quả chiến lược:** Đây chính là lý do giải thích vì sao từ cuối 2025, Speak buộc phải bổ sung **Speak Level**, **chu trình Learn-Practice-Apply** và **cơ chế Streak/Gamification**: Speak đang gấp rút chuyển dịch trọng tâm từ *Lực Kéo công nghệ đơn thuần* sang xây dựng **Lực Cản Lo Ngại (Anxiety - mất dữ liệu tiến trình)** và **Lực Thói Quen (Habit Loop)** để phòng thủ trước các mô hình nền tảng miễn phí.
 
 ---
 
