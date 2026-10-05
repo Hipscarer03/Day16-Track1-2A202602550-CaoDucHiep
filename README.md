@@ -41,7 +41,6 @@
 > 2. *Các chiến dịch khuyến mãi / giảm giá mùa tựu trường (Back to school discount):* Đây là quyết định Marketing/Sales ngắn hạn, không làm thay đổi định giá (pricing strategy) hay cấu trúc gói dịch vụ lâu dài.
 > 3. *Các bản vá lỗi nhận diện giọng nói (Minor bug fixes/patch release):* Đây là bảo trì kỹ thuật thường nhật, không tạo ra một bước nhảy vọt x10 về trải nghiệm sản phẩm.
 
-
 ---
 
 ## Step 2 — Phân tích Người Dùng & 4 Forces (Checkpointed CP2)
@@ -106,15 +105,6 @@ flowchart TD
 > 2. *Sự suy giảm niềm tin vào thuật toán chấm điểm:* Nếu Speak tiếp tục gặp lỗi chấm phát âm khắt khe vô lý (như các review 1 sao đã chỉ ra), người học sẽ mất niềm tin vào vai trò "người sửa lỗi" của AI và chuyển sang nói chuyện tự do trên ChatGPT Voice.
 >
 > $\rightarrow$ **Hệ quả chiến lược:** Đây chính là lý do giải thích vì sao từ cuối 2025, Speak buộc phải bổ sung **Speak Level**, **chu trình Learn-Practice-Apply** và **cơ chế Streak/Gamification**: Speak đang gấp rút chuyển dịch trọng tâm từ *Lực Kéo công nghệ đơn thuần* sang xây dựng **Lực Cản Lo Ngại (Anxiety - mất dữ liệu tiến trình)** và **Lực Thói Quen (Habit Loop)** để phòng thủ trước các mô hình nền tảng miễn phí.
-
----
-
-### 5. Giới Hạn Bằng Chứng & Khai Báo AI Support Log
-
-- **Giới hạn dữ liệu:** Nhân khẩu học nhóm Early Adopters tại Hàn Quốc được suy luận từ bối cảnh văn hóa thi cử và các bài phỏng vấn podcast của nhà sáng lập (Accel Podcast). Các review 1 sao là tín hiệu định tính ban đầu, cần được kiểm chứng trên tập mẫu rộng hơn (20–30 review).
-- **Tự kiểm chứng cá nhân:** Đã tiến hành cài đặt và trải nghiệm trực tiếp tính năng luyện phát âm các từ co rút (*how's, what's*) trên ứng dụng để xác thực ngưỡng nhạy của bộ nhận diện giọng nói.
-- **Khai báo AI Log:** AI hỗ trợ phân loại sơ bộ mô hình 4 Forces và định dạng bảng JTBD; học viên trực tiếp thu thập review tiêu cực thực tế, phân tích nguyên nhân kỹ thuật và viết các câu trả lời phản biện chiến lược.
-
 
 ---
 
@@ -186,12 +176,9 @@ flowchart LR
 
 ---
 
-### 3. Lưu Ý Thẩm Định Bằng Chứng & Khai Báo AI Support Log
+### 3. Lưu Ý Thẩm Định Bằng Chứng
 
 - **Thẩm định nguồn dữ liệu:**
   - Tin tuyển dụng vị trí *Product Lead, Enterprise* và *Assessment Design* được tra cứu trực tiếp từ cổng tuyển dụng [Wellfound (AngelList)](https://wellfound.com/company/speak-app/jobs) và trang [Speak Careers](https://www.speak.com/careers). Cần lưu ý các vị trí này phản ánh định hướng đầu tư nguồn lực của công ty, thời điểm ra mắt tính năng thực tế có thể dao động tùy thuộc vào tiến độ R&D.
   - Con số *"hơn 500 công ty"* sử dụng Speak được trích dẫn từ phát biểu tự công bố của ban lãnh đạo Speak trên tạp chí [Forbes](https://www.forbes.com/sites/rashishrivastava/2025/11/12/this-startup-is-racing-duolingo-to-replace-human-language-tutors-with-ai/), được xem là tuyên bố thương mại cần tiếp tục theo dõi qua báo cáo tài chính/gọi vốn tiếp theo.
   - Thị trường Đông Nam Á (Việt Nam, Thái Lan): Dù Speak từng đề cập tiềm năng tại vòng Series C, nhóm chưa tìm thấy tín hiệu tuyển dụng bộ máy B2B tại khu vực này nên **chủ động loại bỏ khỏi nhóm dự đoán chính trong 6–12 tháng tới**.
-- **Khai báo AI Support Log (Step 3):**
-  - *AI đã hỗ trợ:* Hỗ trợ quét và tổng hợp các bản mô tả công việc (JD) của Speak trên Wellfound; gợi ý các hướng dự đoán tương thích với mô hình EdTech.
-  - *Học viên tự tay thực hiện:* Lựa chọn và tinh lọc đúng 3 quyết định sản phẩm chiến lược; tự chấm điểm mức độ tự tin; thiết lập chuỗi lập luận phản biện kết nối chặt chẽ Step 1 $\rightarrow$ Step 2 $\rightarrow$ Step 3; và trực tiếp xây dựng kịch bản phản biện giả định gãy cho Dự đoán 1.
